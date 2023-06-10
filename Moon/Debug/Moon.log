@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Projects\Moon\Moon\main.cpp(334,55): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\Projects\Moon\Moon\main.cpp(335,55): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\Projects\Moon\Moon\main.cpp(614,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Moon\Moon\main.cpp(615,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Moon\Moon\main.cpp(655,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Moon\Moon\main.cpp(656,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Projects\Moon\Moon\main.cpp(661,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Moon.vcxproj -> D:\Projects\Moon\Debug\Moon.exe
